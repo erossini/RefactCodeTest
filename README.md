@@ -22,8 +22,6 @@ The test should take around 1hr 30 – 2 hrs, though of course if you can spend 
 
 Though it isn’t timed, essentially they want you to work on the test until you think it is production ready.
 
-Once finished, please upload it to GitHub and send the link to me not Sonovate (please don’t mention in the file when uploading it that it is the Sonovate tech test).
-
 I tend to look for candidates with good knowledge and experience with the below, so try and incorporate these into your test:
 
 - Open/Close, Single Responsibility, Liskov Substitution, Interface Segregation, Dependency Inversion Principles
